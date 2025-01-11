@@ -5,7 +5,7 @@
     <!-- Hero Section -->
     <section class="py-32 relative flex items-center">
         <div class="absolute inset-0 bg-[url('/public/background1.png')] bg-cover bg-center"></div>
-        <div class="container mx-auto px-4 py-32 relative z-10">
+        <div class="container mx-auto px-4 py-32 relative z-10 max-w-7xl">
             <div class="max-w-5xl text-white">
                 <h1 class="text-4xl md:text-6xl font-extrabold mb-6">
                     Cybersecurity Made Simple with Sangfor Cyber Command
